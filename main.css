@@ -306,4 +306,10 @@ label{
     .self{
         width: 300px;
     }
+        .database > img{
+        width: 70px;
+    }
+    .languages > img{
+        width: 70px;
+    }
 }
