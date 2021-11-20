@@ -321,4 +321,8 @@ label{
     .form{
        width: 200px;
     }
+    .btn{
+       font-size: small;
+       padding: 5px;
+    }
 }
