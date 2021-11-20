@@ -312,4 +312,10 @@ label{
     .languages > img{
         width: 70px;
     }
+        .languages > h3{
+        font-size: small;
+    }
+    .database > h3{
+        font-size: small;
+    }
 }
