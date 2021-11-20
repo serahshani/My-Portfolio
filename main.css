@@ -318,4 +318,7 @@ label{
     .database > h3{
         font-size: small;
     }
+        .form{
+        width: 300px;
+    }
 }
