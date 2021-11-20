@@ -299,4 +299,11 @@ label{
     .mobile-nav.is-active{
         left: 0;
     }
+        div > img{
+        width: 300px;
+        border-radius: 5px;
+    }
+    .self{
+        width: 300px;
+    }
 }
