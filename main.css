@@ -95,7 +95,7 @@ footer >p{
     flex-direction: column;
     row-gap: 20px;
     padding: 30px;
-    background-image: url('/images/bg2.jpeg');
+    background-image: url('/img/bg2.jpeg');
 }
 #projects > h1{
     margin-left: 10%;
@@ -142,7 +142,7 @@ footer >p{
     row-gap: 10px;
     align-items: center;
     padding: 30px;
-    background-image: url('/images/bg2.jpeg');
+   background-image: url('/img/bg2.jpeg');
 }
 #skills > h1{
     color: aliceblue;
