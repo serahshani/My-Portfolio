@@ -39,7 +39,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: aqua;
+    background-color: black;
     padding: 20px;
     position: fixed;
     width: 100%;
@@ -95,6 +95,7 @@ footer >p{
     flex-direction: column;
     row-gap: 20px;
     padding: 30px;
+    background-image: url('/images/bg2.jpeg');
 }
 #projects > h1{
     margin-left: 10%;
@@ -141,6 +142,16 @@ footer >p{
     row-gap: 10px;
     align-items: center;
     padding: 30px;
+    background-image: url('/images/bg2.jpeg');
+}
+#skills > h1{
+    color: aliceblue;
+}
+.languages > h3{
+    color: aliceblue;
+}
+.database > h3{
+    color: aliceblue;
 }
 .languages{
     display: flex;
