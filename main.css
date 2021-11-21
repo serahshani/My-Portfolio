@@ -251,7 +251,7 @@ label{
     min-height: 100vh;
     z-index: 98;
     padding-top: 120px;
-    transition: 4s;
+    transition: 0.5s ease;
 }
 /* media queries */
 @media only screen and (max-width:768px){
